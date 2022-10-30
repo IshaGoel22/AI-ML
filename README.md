@@ -2,9 +2,7 @@
 Team Members
 Isha Goel – 102183055
 Akshat Khosla – 102053026
-
-Submitted to
-Shikha Sharma
+Arushi Sharma - 102003202
 
 Project
 HEALTH DIAGNOSES 
