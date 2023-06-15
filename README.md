@@ -1,9 +1,9 @@
 
-Team Members
+Team Members:
 Isha Goel – 102183055
 Akshat Khosla – 102053026
 
-Project
+Project:
 HEALTH DIAGNOSES 
 
  
