@@ -1,17 +1,3 @@
-
-Team Members:
-Isha Goel – 102183055
-Akshat Khosla – 102053026
-
-Project:
-HEALTH DIAGNOSES 
-
- 
-THAPAR INSTITUTE OF ENGINEERING AND TECHNOLOGY,
-Patiala
-
-
-
 Aim:
 To predict the disease based on the symptoms given by the user.
 
